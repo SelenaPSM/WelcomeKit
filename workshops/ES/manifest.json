@@ -21,44 +21,12 @@
             "filename": "../../monitoring-esp/monitoring.md"
         },
         {
-            "title": "Hardening HeatWave",
-            "filename": "../../hardening-esp/hardening.md"
-        },
-        {
-            "title": "MySQL Enterprise Audit",
-            "filename": "../../audit-esp/audit.md"
-        },
-        {
-            "title": "MySQL Enterprise Data Masking",
-            "filename": "../../datamasking-esp/datamasking.md"
-        },
-        {
-            "title": "Arq. de tolerancia a fallas: HA",
-            "filename": "../../ha-esp/ha.md"
-        },
-        {
             "title": "Arq. de tolerancia a fallas: DR",
             "filename": "../../dr-hw-esp/dr.md"
         },
         {
             "title": "Arq. híbrida: DR en OCI ",
             "filename": "../../dr-hw-esp/dr.md"
-        },
-        {
-            "title": "Nodos de Analítica en HeatWave",
-            "filename": "../../rapid-esp/rapid.md"
-        },
-        {
-            "title": "HeatWave Lakehouse",
-            "filename": "../../variables/variables.md"
-        },
-        {
-            "title": "HeatWave AutoML",
-            "filename": "../../variables/variables.md"
-        },
-        {
-            "title": "HeatWave GenAI",
-            "filename": "../../variables/variables.md"
         },
         {
             "title": "Experimentando problemas",
