@@ -9,28 +9,28 @@
         {
             "title": "Mejores prácticas",
             "description": "This is the prerequisites for customers using Free Trial and Paid tenancies, and Always Free accounts (if applicable). The title of the lab and the Contents Menu title (the title above) match for Prerequisite lab. This lab is always first.",
-            "filename": "../../best-practices-esp/best-practices.md"
+            "filename": "../../content-ES/best-practices-esp/best-practices.md"
         },
         {
             "title": "Tareas Administrativas",
             "description": "Labs that follow the introduction are numbered, starting with Lab 1",
-            "filename": "../../admin-tasks-esp/admin-tasks.md"
+            "filename": "../../content-ES/admin-tasks-esp/admin-tasks.md"
         },
         {
             "title": "Alertas y Monitoreo",
-            "filename": "../../monitoring-esp/monitoring.md"
+            "filename": "../../content-ES/monitoring-esp/monitoring.md"
         },
         {
             "title": "Arq. de tolerancia a fallas: DR",
-            "filename": "../../dr-hw-esp/dr.md"
+            "filename": "../../content-ES/dr-hw-esp/dr.md"
         },
         {
             "title": "Arq. híbrida: DR en OCI ",
-            "filename": "../../dr-hw-esp/dr.md"
+            "filename": "../../content-ES/dr-hw-esp/dr.md"
         },
         {
             "title": "Experimentando problemas",
-            "filename": "../../work-support-esp/work-support.md"
+            "filename": "../../content-ES/work-support-esp/work-support.md"
         }
     ]
 }
